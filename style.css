@@ -1,0 +1,34 @@
+/* fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+/* common style */
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+echo "# Leader-Board">>README.md
+/* top player style */
+
+.players {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.player {
+    display: flex;
+    align-items: center;
+}
+
+.player img {
+    width: 56px;
+    height: 56px;
+    left: 315px;
+    top: 239px;
+}
+
+
+/* .player h3 {
+    padding: 2x;
+} */
