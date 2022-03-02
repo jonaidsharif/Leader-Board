@@ -136,6 +136,22 @@ hr {
     color: #aeaeae;
 }
 
+.percent {
+    padding: 5px;
+}
+
+.course-duration {
+    background-color: #FEE5DF;
+    border-radius: 14.6913px;
+}
+
+
+/* footer styles */
+
+.foot {
+    text-align: center;
+}
+
 
 /* Media queries */
 
